@@ -10,7 +10,7 @@ This repository is the official hub for all the amazing projects built during th
 
 | **Project Name** | **About**                            | **Readme**       |
 |-------------------|--------------------------------------|------------------|
-| Example Project   | An example guide for hackers to follow | [Readme](./example/README.md) |
+| Example Project   | An example guide for hackers to follow | [Readme](./projects/example/README.md) |
 
 ---
 
